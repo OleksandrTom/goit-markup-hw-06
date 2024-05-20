@@ -553,6 +553,11 @@ img {
 }
 
 .logo-footer {
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
     display: block;
     padding: 0;
     margin-right: 0;
