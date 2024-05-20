@@ -1092,6 +1092,9 @@ textarea::placeholder {
         max-width: 1158px;
         padding: 0 15px;
     }
+    .contacts-link {
+            font-size: 16px;
+        }
 
     .page-logo {
         margin-right: 76px;
@@ -1102,7 +1105,7 @@ textarea::placeholder {
     }
 
     .contacts-list {
-        display: flex;
+        flex-direction: row;
     }
 
     .header-button {
