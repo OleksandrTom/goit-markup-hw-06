@@ -608,7 +608,28 @@ img {
 width: 40px;
 height: 40px;
 }
+.footer-form-input {
+    width: 264px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    padding: 8px 16px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+}
 
+.footer-form-input::placeholder {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
 .footer-link-icon:hover,
 .footer-link-icon:focus {
     background-color: #31d0aa;
