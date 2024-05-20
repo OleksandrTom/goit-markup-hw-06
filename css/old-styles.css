@@ -537,6 +537,8 @@ font-weight: 500;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
+    outline: transparent;
+    outline-offset: 4px;
 }
 
 .footer-form-input::placeholder {
