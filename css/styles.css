@@ -928,13 +928,16 @@ textarea::placeholder {
     border: none;
     fill: #f4f4fd;
 }
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) {
     .container {
         max-width: 768px;
     }
 
     .page-logo {
         margin-right: 120px;
+    }
+    .header-container {
+        height: 72px;
     }
 
     .menu{
