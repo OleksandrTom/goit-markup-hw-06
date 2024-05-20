@@ -1106,6 +1106,7 @@ textarea::placeholder {
 
     .contacts-list {
         flex-direction: row;
+        gap: 40px;
     }
 
     .header-button {
