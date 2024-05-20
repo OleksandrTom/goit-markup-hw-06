@@ -1005,10 +1005,7 @@ textarea::placeholder {
         max-width: calc(50% - 12px);
     }
 
-    .benefits-list-title {
-        text-align: left;
-    }
-
+   
     .our-team-list-list {
         gap: 24px;
         row-gap: 64px;
@@ -1094,7 +1091,9 @@ textarea::placeholder {
         max-width: 1158px;
         padding: 0 15px;
     }
-
+    .benefits-list-title {
+     text-align: left;
+    }
     .page-logo {
         margin-right: 76px;
     }
